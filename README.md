@@ -11,6 +11,9 @@ Tenho experiência com backend, frontend, chamadas de API via Postman, testes de
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-000000?style=flat&logo=pytest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-333333?style=flat&logo=playwright)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Backend e PHP
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -18,20 +21,14 @@ Tenho experiência com backend, frontend, chamadas de API via Postman, testes de
 - Testes unitários e de integração
 - Automação de testes com PHPUnit
 
-### Frontend e Desenvolvimento Web
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 - Criação e manutenção de queries, procedures e triggers
 - Otimização e análise de performance de banco de dados
 
 ### Testes de Performance
 ![JMeter](https://img.shields.io/badge/JMeter-FF6C37?style=flat&logo=apachejmeter&logoColor=white)
-- Testes de carga e stress
+- Testes de carga, stress, volume e pico
 - Identificação de gargalos e análise de métricas
 
 ### Ferramentas e Outros
@@ -49,9 +46,10 @@ Tenho experiência com backend, frontend, chamadas de API via Postman, testes de
 
 ## 💻 Projetos Destacados
 
-- **Automação de Jogos Web**: Playwright + Pytest (Python e JS)  
+- **Automação de Jogos Web**: Playwright + Pytest + Python  
+- ** HTTPCATS**: Automação Playwright + JavaScript    
 - **Testes de Laravel**: PHPUnit + integração com API  
-- **SQL e Banco de Dados**: Queries complexas e otimização  
+- **SQL e Banco de Dados**: Queries complexas e otimização    
 - **Testes de Performance**: JMeter para análise de carga, volume, pico e stress.  
 
 ---
