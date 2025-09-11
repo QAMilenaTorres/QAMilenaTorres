@@ -47,7 +47,7 @@ Tenho experiência com backend, frontend, chamadas de API via Postman, testes de
 ## 💻 Projetos Destacados
 
 - **Automação de Jogos Web**: Playwright + Pytest + Python  
-- ** HTTPCATS**: Automação Playwright + JavaScript    
+- **HTTPCATS**: Automação Playwright + JavaScript    
 - **Testes de Laravel**: PHPUnit + integração com API  
 - **SQL e Banco de Dados**: Queries complexas e otimização    
 - **Testes de Performance**: JMeter para análise de carga, volume, pico e stress.  
