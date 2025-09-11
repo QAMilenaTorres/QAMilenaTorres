@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Mi!
 
-Sou Analista de QA e apaixonada por testes, automação e performance.  
-Tenho experiência com backend, frontend, testes de acessibilidade e infraestrutura.  
+Sou Analista de QA e apaixonada por testes de automação e manuais.  
+Tenho experiência com backend, frontend, chamadas de API via Postman, testes de acessibilidade, funcionalidade, infraestrutura, jogos e performance.
 
 ---
 
@@ -52,7 +52,7 @@ Tenho experiência com backend, frontend, testes de acessibilidade e infraestrut
 - **Automação de Jogos Web**: Playwright + Pytest (Python e JS)  
 - **Testes de Laravel**: PHPUnit + integração com API  
 - **SQL e Banco de Dados**: Queries complexas e otimização  
-- **Testes de Performance**: JMeter para análise de carga  
+- **Testes de Performance**: JMeter para análise de carga, volume, pico e stress.  
 
 ---
 
