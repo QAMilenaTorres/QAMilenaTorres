@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou a Mi!
 
 Sou Analista de Qualidade há 4 anos e apaixonada por testes de automação e manuais.  
-Tenho experiência com backend, frontend, chamadas de API via Postman, testes de acessibilidade, funcionalidade, infraestrutura, jogos e performance.
+Tenho experiência com Back-end, Front-end, chamadas de API, testes de acessibilidade, funcionalidade, infraestrutura, jogos e performance.
 
 ---
 
